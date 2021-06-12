@@ -1,2 +1,3 @@
-# modulo_lenguaje_de_consultas_a_una_base_de_datos
+# Modulo 2: Lenguaje de consultas a una base de datos
 Repositorio de Módulo 2, curso Desarrollo de aplicaciones móviles: Android Trainee
+Iván Pino A.
