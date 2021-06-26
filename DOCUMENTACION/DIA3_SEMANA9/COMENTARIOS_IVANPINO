@@ -1,0 +1,44 @@
+*************************************************************************
+*************************************************************************
+MODULO 2: CONSULTAS A UNA BASE DE DATOS
+*************************************************************************
+*************************************************************************
+Inicio unidad 2
+*Proyecto: Desarrollar las bases de datos del proyecto
+*Empezar por unidad 1, 8 y 9, y luego ir de 2 a 7
+*Unidad 2 y 3 se relacionan con un solo entregable: vistas
+
+Miercoles 23 desarrollo de unidad. Jueves 24 presentaciones de proyecto.
+
+Unidad 1 - Las Bases de Dato RelacionalesArchivo
+Unidad 8 - El modelo Entidad-RelaciónArchivo
+Unidad 9 - El modelo RelacionalArchivo
+Unidad 6 - Sentencias para la definición de tablasArchivo
+Unidad 7 - Creando un modelo de datos con integridad referencialArchivo
+Unidad 2 - Consultando información de una tablaArchivo
+Unidad 3 - Consultando información relacionada en varias tablasArchivo
+Unidad 4 - Sentencias para la manipulación de datosArchivo
+Unidad 5 - Transaccionalidad en las operacionesArchivo
+
+Entregables módulo 2
+1. Modelo de entidad relación (8)
+2. Modelo relacional (9)
+3. Sentencias para definición, tablas, relaciones y restricciones (6 y 7)
+4. Vistas para consultas (2 y 3)
+5. Procedimientos almacenados (4 y 5)
+
+apiRest
+postman
+
+Base de datos local (sqlite)
+
+Aplicación móvil y aplicación web
+*************************************************************************
+*************************************************************************
+ACTIVIDAD REALIZADA: 
+
+Se modificó el proyecto para dar más trabajo a las bases de datos.
+Se crea nuevo diagrama de relaciones
+Continuación de trabajo en mySQL
+*************************************************************************
+*************************************************************************
